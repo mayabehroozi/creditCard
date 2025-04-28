@@ -3,7 +3,8 @@ creditCard and payment form
 
 
 this project coded by me:)
-![Image](https://github.com/user-attachments/assets/c5ee3270-e4b1-4935-94fb-6f9f471d0949)
+![Image](https://github.com/user-attachments/assets/39bb774a-994e-4020-97f0-42ac4cc46e3b)
+
 [Demo Project](https://mayabehroozi.github.io/creditCard/)
 creditCard
  Technologies Used - Html , css ,JS
